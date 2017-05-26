@@ -47,14 +47,6 @@ public class SearchSpecificNumber {
         return  -1;
     }
 
-    //递归实现的查找算法
-    public  static  int indexOfNumber_recursiveVersion (int[] list,int n, int i, int key) {
-
-
-
-          return  -1;
-    }
-
     public static void main(String[] args)
     {
         String filePath = "/Users/lyleKP/Documents/同步目录/项目/Algorithms/AlgorithmsIDEAProject/out/production/untitled2/largeW.txt";
