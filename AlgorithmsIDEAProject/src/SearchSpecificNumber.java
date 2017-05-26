@@ -56,7 +56,7 @@ public class SearchSpecificNumber {
     public static void main(String[] args)
     {
 
-        String filePath = "/Users/lyleKP/Documents/个人项目/untitled2/src/largeW.txt";
+        String filePath = "/Users/lyleKP/Documents/同步目录/项目/Algorithms/AlgorithmsIDEAProject/out/production/untitled2/largeW.txt";
         int[] whitelist = In.readInts(filePath);
 //        Arrays.sort(whitelist);
         while (!StdIn.isEmpty()) {
